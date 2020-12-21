@@ -1,2 +1,2 @@
 # animal_face_find
-Yolo4 Project.
+사람 얼굴이 어떤 동물상인지 찾기.
